@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
 __author__ = 'cm'
 
+#KNN紧邻算法
 from numpy import *
 import operator
 
